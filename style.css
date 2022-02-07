@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+
+    overflow: visible;
+
+    background-color: rgb(50, 50, 50);
+
+    color: black;
+
+}
+
+.toppmeny{
+    width: 99vw;
+    height: 10vh;
+
+    background-color: black;
+    color: white;
+
+    padding-top: 10px;   
+    padding-left: 20px; 
+
+}
+
+.nav{
+    color: white;
+    font-size: large;
+    
+    text-decoration: none;
+
+    margin-right: 2vw;
+    
+}
+
+
+.home{
+    color: red;
+    font-size:  xx-large;
+
+    margin-right: 3vw;
+}
+
+.filmer{
+    margin-bottom: 4px;
+    
+    margin-top: -5vh;
+
+    z-index: 2;
+}
+
+.rad{
+    display: flex;
+
+    width: fit-content;
+    height: 15vh;
+
+    border: 1px solid black;
+
+    margin-bottom: 10px;
+}
+
+.film{
+    width: 15vw;
+    height: 15vh;
+
+    background-color: black;
+    
+    margin-right: 10px;
+}
+
+.storrelse{
+    width: 99vw;
+    height: 80vh;
+
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.a{
+    background-color: red;
+}
+
+.b{
+    background-color: blue;
+}
+
+.c{
+    background-color: green;
+}
+
+.d{
+    background-color: yellow;
+}
+
+.knapp{
+    position: absolute;
+    margin-top: 30vh;
+    font-size: 100px;
+}
+
+.to{
+    margin-left: 96vw;
+}
