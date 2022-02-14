@@ -34,12 +34,12 @@ function bokser(id, rader, filmer){
     var i = 0;
 
     while (i<rader){
-    document.getElementById(id).innerHTML += '<div class="rad" id="rad'+i+'"></div> '
+        document.getElementById(id).innerHTML += '<div class="rad" id="rad'+i+'"></div> '
 
-    x=0;
+        x=0;
         while (x<filmer){
-        document.getElementById("rad"+i).innerHTML += '<a href="/html/film.html"><div class="film"></div><a>';
-        x++;    
+            document.getElementById("rad"+i).innerHTML += '<a href="/html/film.html"><div class="film fr'+i+x+'"></div><a>';
+            x++;    
         }
     i++;
     }
