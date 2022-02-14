@@ -1,3 +1,6 @@
+Vurdering
+
+
 Planlegging
 Enkel plan som sier hva jeg skal lage:  Ja, i veldig korte trekk
 Planen viser framdrift for oppgaven:    Nei
